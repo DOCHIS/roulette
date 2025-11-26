@@ -1,0 +1,6 @@
+{
+  "buildCommand": "yarn build:vercel",
+  "outputDirectory": "dist",
+  "installCommand": "yarn install",
+  "framework": null
+}
